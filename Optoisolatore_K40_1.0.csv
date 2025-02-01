@@ -1,0 +1,8 @@
+"Reference","Value","Datasheet","Footprint","Qty","DNP"
+"J1,J2","Conn_01x04_Pin","~","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","2",""
+"Q1","2N7000","https://www.vishay.com/docs/70226/70226.pdf","Package_TO_SOT_THT:TO-92_HandSolder","1",""
+"R2","R 220","~","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","1",""
+"R4","R 200","~","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","1",""
+"R6","R K10","~","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","1",""
+"R7","R 10","~","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","1",""
+"U1,U2","4N35","https://www.vishay.com/docs/81181/4n35.pdf","Package_DIP:DIP-6_W7.62mm","2",""

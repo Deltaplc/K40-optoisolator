@@ -1,0 +1,11 @@
+Plotted to 'C:\Users\Davide\3D Objects\Oggetti_Stampati\3D_2024\Laser K40_2024\Arduino_Due\PCB_Optosolatore_K40\K40_Optoisolatore_Semplice\Optoisolatore_K40_1.0\Optoisolatore_K40_1.0-F_Cu.gbr'.
+Plotted to 'C:\Users\Davide\3D Objects\Oggetti_Stampati\3D_2024\Laser K40_2024\Arduino_Due\PCB_Optosolatore_K40\K40_Optoisolatore_Semplice\Optoisolatore_K40_1.0\Optoisolatore_K40_1.0-B_Cu.gbr'.
+Plotted to 'C:\Users\Davide\3D Objects\Oggetti_Stampati\3D_2024\Laser K40_2024\Arduino_Due\PCB_Optosolatore_K40\K40_Optoisolatore_Semplice\Optoisolatore_K40_1.0\Optoisolatore_K40_1.0-F_Paste.gbr'.
+Plotted to 'C:\Users\Davide\3D Objects\Oggetti_Stampati\3D_2024\Laser K40_2024\Arduino_Due\PCB_Optosolatore_K40\K40_Optoisolatore_Semplice\Optoisolatore_K40_1.0\Optoisolatore_K40_1.0-B_Paste.gbr'.
+Plotted to 'C:\Users\Davide\3D Objects\Oggetti_Stampati\3D_2024\Laser K40_2024\Arduino_Due\PCB_Optosolatore_K40\K40_Optoisolatore_Semplice\Optoisolatore_K40_1.0\Optoisolatore_K40_1.0-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\Davide\3D Objects\Oggetti_Stampati\3D_2024\Laser K40_2024\Arduino_Due\PCB_Optosolatore_K40\K40_Optoisolatore_Semplice\Optoisolatore_K40_1.0\Optoisolatore_K40_1.0-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\Davide\3D Objects\Oggetti_Stampati\3D_2024\Laser K40_2024\Arduino_Due\PCB_Optosolatore_K40\K40_Optoisolatore_Semplice\Optoisolatore_K40_1.0\Optoisolatore_K40_1.0-F_Mask.gbr'.
+Plotted to 'C:\Users\Davide\3D Objects\Oggetti_Stampati\3D_2024\Laser K40_2024\Arduino_Due\PCB_Optosolatore_K40\K40_Optoisolatore_Semplice\Optoisolatore_K40_1.0\Optoisolatore_K40_1.0-B_Mask.gbr'.
+Plotted to 'C:\Users\Davide\3D Objects\Oggetti_Stampati\3D_2024\Laser K40_2024\Arduino_Due\PCB_Optosolatore_K40\K40_Optoisolatore_Semplice\Optoisolatore_K40_1.0\Optoisolatore_K40_1.0-Edge_Cuts.gbr'.
+Creato file di lavoro Gerber 'C:\Users\Davide\3D Objects\Oggetti_Stampati\3D_2024\Laser K40_2024\Arduino_Due\PCB_Optosolatore_K40\K40_Optoisolatore_Semplice\Optoisolatore_K40_1.0\Optoisolatore_K40_1.0-job.gbrjob'.
+Info: Fatto.
